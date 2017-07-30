@@ -15,8 +15,8 @@
   "require": {
     "silverstripe/framework": "3.*",
     "silverstripe/cms": "3.*",
+    "silverstripe/multiform": "*",
     "silverstripe-australia/memberprofiles": "dev-master"
-
   },
   "extra": {
     "installer-name": "insiteapps-membership-common"
