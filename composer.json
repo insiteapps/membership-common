@@ -13,11 +13,9 @@
     }
   ],
   "require": {
-    "silverstripe/framework": "3.*",
-    "silverstripe/cms": "3.*",
     "silverstripe/multiform": "*",
     "silverstripe/subsites": "*",
-    "symbiote/silverstripe-memberprofiles": "dev-master"
+    "symbiote/silverstripe-memberprofiles": "*"
   },
   "extra": {
     "installer-name": "insiteapps-membership-common"
