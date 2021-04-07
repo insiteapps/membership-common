@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "silverstripe/multiform": "1.4.x-dev",
+    "silverstripe/multiform": "1.3",
     "silverstripe/subsites": "*",
     "symbiote/silverstripe-memberprofiles": "*"
   },
